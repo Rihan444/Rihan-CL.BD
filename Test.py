@@ -14,7 +14,7 @@ os.system("sl")
 
 
 
-time.sleep(2)
+
 print ('''\n\n\n\n\n\n\n\n\n
 			
  __    __      _ _                           
@@ -24,11 +24,11 @@ print ('''\n\n\n\n\n\n\n\n\n
   \/  \/ \__,_|_|_|\___\___/|_| |_| |_|\___| 
                                                                                                                                                                                
 ''')
+time.sleep(3)
+
 
 os.system("clear")
 
-
-time.sleep(2)
 print('''\n\n\n\n\n\n\n\n\n
   _____   U  ___ u 
  |_ " _|   \/"_ \/ 
@@ -38,9 +38,11 @@ print('''\n\n\n\n\n\n\n\n\n
  _// \\_     \\    
 (__) (__)   (__)   
 ''')
+time.sleep(3)
+
 os.system("clear")
 
-time.sleep(2)
+
 print('''\n\n\n\n\n\n\n\n\n 
   
   _____   _              
@@ -52,9 +54,11 @@ _|"""""|_|"""""|_|"""""|
     
 
 ''')
+time.sleep(3)
+
 os.system("clear")
 
-time.sleep(2)
+
 print('''\n\n\n\n\n\n\n\n\n 
 ____/\\\\\\\\\____________/\\\______________________________________        
  __/\\\///////\\\_________\/\\\______________________________________       
@@ -68,10 +72,9 @@ ____/\\\\\\\\\____________/\\\______________________________________
 
 ''')
 
-
+time.sleep(3)
 os.system("clear")
 
-time.sleep(2)
 print('''\n\n\n\n\n\n\n\n\n ___________           .__          
 \__    ___/___   ____ |  |   ______
   |    | /  _ \ /  _ \|  |  /  ___/
@@ -84,6 +87,7 @@ print('''\n\n\n\n\n\n\n\n\n ___________           .__
                                 
                                 
                                 
+
 os.system("clear")
 
 time.sleep(2)
@@ -99,9 +103,10 @@ print('''
 
                                      
 ''') 
+time.sleep(3)
 
 os.system("clear")
-time.sleep(2)
+
 print('''\n
 
                                      
@@ -113,9 +118,11 @@ print('''\n
                                      
 
 ''')
+time.sleep(3)
+
 os.system("clear")
 
-time.sleep(2)
+
 print('''\n\n
                                      
  ,-----. ,------. ,------.,--.  ,--. 
@@ -125,10 +132,10 @@ print('''\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-                                  
+time.sleep(3)                            
 os.system("clear")
 
-time.sleep(2)
+
 print('''\n\n\n
                                      
  ,-----. ,------. ,------.,--.  ,--. 
@@ -138,9 +145,9 @@ print('''\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
+time.sleep(3)
 os.system("clear")
 
-time.sleep(2)
 print('''\n\n\n\n
 
                                      
@@ -151,10 +158,10 @@ print('''\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-
+time.sleep(3)
 os.system("clear")
 
-time.sleep(2)
+
 print('''\n\n\n\n\n
 
                                      
@@ -165,9 +172,10 @@ print('''\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
+time.sleep(3)
 os.system("clear")
 
-time.sleep(2)
+
 print('''\n\n\n\n\n\n\
 
 
@@ -179,10 +187,11 @@ print('''\n\n\n\n\n\n\
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
+time.sleep(3)
 
 os.system("clear")
 
-time.sleep(2)
+
 print('''\n\n\n\n\n\n\n\
 
 
@@ -194,10 +203,10 @@ print('''\n\n\n\n\n\n\n\
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-
+time.sleep(3)
 os.system("clear")
 
-time.sleep(2)
+
 print('''\n\n\n\n\n\n\n\n
                                      
  ,-----. ,------. ,------.,--.  ,--. 
@@ -207,7 +216,7 @@ print('''\n\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-
+time.sleep(3)
 os.system("clear")
 
 print('''Close''')
