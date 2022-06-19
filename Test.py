@@ -3,6 +3,15 @@ import os
 import time
 import socket
 import random
+import os
+try:
+	import requests
+except:
+	os.system("apt install sl")
+import requests
+
+os.system("sl")
+
 
 
 time.sleep(2)
