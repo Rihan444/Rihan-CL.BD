@@ -229,7 +229,7 @@ time.sleep(05)
 os.system("clear")
 
 
-print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
                                      
  ,-----. ,------. ,------.,--.  ,--. 
 '  .-.  '|  .--. '|  .---'|  ,'.|  | 
@@ -242,7 +242,7 @@ time.sleep(05)
 os.system("clear")
 
 
-print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
                                      
  ,-----. ,------. ,------.,--.  ,--. 
 '  .-.  '|  .--. '|  .---'|  ,'.|  | 
@@ -255,7 +255,7 @@ time.sleep(05)
 os.system("clear")
 
 
-print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
                                      
  ,-----. ,------. ,------.,--.  ,--. 
 '  .-.  '|  .--. '|  .---'|  ,'.|  | 
@@ -268,7 +268,7 @@ time.sleep(05)
 os.system("clear")
 
 
-print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
                                      
  ,-----. ,------. ,------.,--.  ,--. 
 '  .-.  '|  .--. '|  .---'|  ,'.|  | 
@@ -281,7 +281,7 @@ time.sleep(05)
 os.system("clear")
 
 
-print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
                                      
  ,-----. ,------. ,------.,--.  ,--. 
 '  .-.  '|  .--. '|  .---'|  ,'.|  | 
@@ -294,7 +294,7 @@ time.sleep(05)
 os.system("clear")
 
 
-print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+print('''\n\n\n\n\n\n\n\n\n\n\n\n\n
                                      
  ,-----. ,------. ,------.,--.  ,--. 
 '  .-.  '|  .--. '|  .---'|  ,'.|  | 
@@ -307,7 +307,7 @@ time.sleep(05)
 os.system("clear")
 
 
-print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+print('''\n\n\n\n\n\n\n\n\n\n\n
                                      
  ,-----. ,------. ,------.,--.  ,--. 
 '  .-.  '|  .--. '|  .---'|  ,'.|  | 
@@ -320,7 +320,7 @@ time.sleep(05)
 os.system("clear")
 
 
-print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+print('''\n\n\n\n\n\n\n\n\n
                                      
  ,-----. ,------. ,------.,--.  ,--. 
 '  .-.  '|  .--. '|  .---'|  ,'.|  | 
@@ -333,7 +333,7 @@ time.sleep(05)
 os.system("clear")
 
 
-print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+print('''\n\n\n\n\n\n\n
                                      
  ,-----. ,------. ,------.,--.  ,--. 
 '  .-.  '|  .--. '|  .---'|  ,'.|  | 
@@ -346,7 +346,7 @@ time.sleep(05)
 os.system("clear")
 
 
-print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+print('''\n\n\n\n\n
                                      
  ,-----. ,------. ,------.,--.  ,--. 
 '  .-.  '|  .--. '|  .---'|  ,'.|  | 
@@ -359,7 +359,7 @@ time.sleep(05)
 os.system("clear")
 
 
-print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+print('''\n\n\n\n
                                      
  ,-----. ,------. ,------.,--.  ,--. 
 '  .-.  '|  .--. '|  .---'|  ,'.|  | 
