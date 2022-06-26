@@ -98,7 +98,7 @@ print('''\n\n\n\n\n\n\n\n\n ___________           .__
 
 os.system("clear")
 
-time.sleep(05)
+time.sleep(1)
 print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                 
 
                                      
@@ -111,7 +111,7 @@ print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
 
                                      
 ''') 
-time.sleep(05)
+time.sleep(1)
 
 os.system("clear")
 
@@ -126,7 +126,7 @@ print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
                                      
 
 ''')
-time.sleep(05)
+time.sleep(1)
 
 os.system("clear")
 
@@ -140,7 +140,7 @@ print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)                            
+time.sleep(1)                            
 os.system("clear")
 
 
@@ -154,7 +154,7 @@ print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
@@ -167,7 +167,7 @@ print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -181,7 +181,7 @@ print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -196,7 +196,7 @@ print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 
 os.system("clear")
 
@@ -212,7 +212,7 @@ print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -225,7 +225,7 @@ print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -238,7 +238,7 @@ print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -251,7 +251,7 @@ print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -264,7 +264,7 @@ print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -277,7 +277,7 @@ print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -290,7 +290,7 @@ print('''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -303,7 +303,7 @@ print('''\n\n\n\n\n\n\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -316,7 +316,7 @@ print('''\n\n\n\n\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -329,7 +329,7 @@ print('''\n\n\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -342,7 +342,7 @@ print('''\n\n\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -355,7 +355,7 @@ print('''\n\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -368,7 +368,7 @@ print('''\n\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -381,7 +381,7 @@ print('''\n\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -394,7 +394,7 @@ print('''\n\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -407,7 +407,7 @@ print('''\n
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
@@ -420,7 +420,7 @@ print('''
  `-----' `--'     `------'`--'  `--' 
                                      
 ''')
-time.sleep(05)
+time.sleep(1)
 os.system("clear")
 
 
