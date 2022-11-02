@@ -25,7 +25,7 @@ cd Rihan-CL.BD
 
 chmod +x *
 
-python 
+python2 Rihan-CL.BD.py
 
 Done ✅😃 Thank you 💓
 
