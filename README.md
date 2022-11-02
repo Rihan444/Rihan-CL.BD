@@ -19,13 +19,13 @@ pkg install git
 
 pkg install figlet
 
-git clone  https://github.com/Rihan444/R-Pass
+git clone https://github.com/Rihan444/Rihan-CL.BD
 
-cd R-Pass
+cd Rihan-CL.BD
 
 chmod +x *
 
-python R-pass.py
+python 
 
 Done ✅😃 Thank you 💓
 
